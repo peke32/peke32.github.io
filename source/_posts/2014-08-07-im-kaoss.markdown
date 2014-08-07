@@ -1,0 +1,7 @@
+---
+layout: post
+title: "I'm kaoss"
+date: 2014-08-07 23:35:57 +0900
+comments: true
+categories: 
+---
