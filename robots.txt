@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://peke32.github.io/sitemap.xml 
